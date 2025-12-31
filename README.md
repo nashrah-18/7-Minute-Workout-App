@@ -76,7 +76,7 @@ Exercies:
 
 ---
 
-Congratulations:
+Congratulations once completed!
 
 <img src="https://github.com/nashrah-18/7-Minute-Workout-App/blob/main/WhatsApp%20Image%202025-12-31%20at%203.26.34%20AM(1).jpeg?raw=true" width="250"/>
 
