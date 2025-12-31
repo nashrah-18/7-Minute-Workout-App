@@ -1,23 +1,99 @@
-# 7-Minute-Workout-App
-A 7 minute workout app for working students and professionals that hits all the spots of your body to keep you fit! Just 7 minutes daily and you will feel better than the 80% of people.
-# Based on Research paper by Chris Jordan, an exercise physiologist, and Brett Klika.
-They created it as a high-intensity circuit training routine, aiming to provide an effective workout in a short amount of time
-# Why this app? Because it's challenging.
-- Once clicked on start, you cannot back-off. Hence, this makes it more challenging for user to commit.
-- Good for procrastinators or in general busy people who want to stay physically fit everyday!
+# 7-Minute Workout App
 
-# Screenshots of output:
-<img src="https://github.com/nashrah-18/7-Minute-Workout-App/blob/main/WhatsApp%20Image%202025-12-31%20at%203.26.30%20AM(2).jpeg?raw=true" width="300"/>
-<img src="https://github.com/nashrah-18/7-Minute-Workout-App/blob/main/WhatsApp%20Image%202025-12-31%20at%203.26.31%20AM.jpeg?raw=true" width="300"/>
-<img src="https://github.com/nashrah-18/7-Minute-Workout-App/blob/main/WhatsApp%20Image%202025-12-31%20at%203.26.31%20AM(1).jpeg?raw=true" width="300"/>
-<img src="https://github.com/nashrah-18/7-Minute-Workout-App/blob/main/WhatsApp%20Image%202025-12-31%20at%203.26.31%20AM(2).jpeg?raw=true" width="300"/>
-<img src="https://github.com/nashrah-18/7-Minute-Workout-App/blob/main/WhatsApp%20Image%202025-12-31%20at%203.26.32%20AM(1).jpeg?raw=true" width="300"/>
-<img src="https://github.com/nashrah-18/7-Minute-Workout-App/blob/main/WhatsApp%20Image%202025-12-31%20at%203.26.32%20AM(2).jpeg?raw=true" width="300"/>
-<img src="https://github.com/nashrah-18/7-Minute-Workout-App/blob/main/WhatsApp%20Image%202025-12-31%20at%203.26.32%20AM.jpeg?raw=true" width="300"/>
-<img src="https://github.com/nashrah-18/7-Minute-Workout-App/blob/main/WhatsApp%20Image%202025-12-31%20at%203.26.33%20AM(1).jpeg?raw=true" width="300"/>
-<img src="https://github.com/nashrah-18/7-Minute-Workout-App/blob/main/WhatsApp%20Image%202025-12-31%20at%203.26.33%20AM(2).jpeg?raw=true" width="300"/>
-<img src="https://github.com/nashrah-18/7-Minute-Workout-App/blob/main/WhatsApp%20Image%202025-12-31%20at%203.26.33%20AM.jpeg?raw=true" width="300"/>
-<img src="https://github.com/nashrah-18/7-Minute-Workout-App/blob/main/WhatsApp%20Image%202025-12-31%20at%203.26.34%20AM(1).jpeg?raw=true" width="300"/>
-<img src="https://github.com/nashrah-18/7-Minute-Workout-App/blob/main/WhatsApp%20Image%202025-12-31%20at%203.26.34%20AM.jpeg?raw=true" width="300"/>
+A **7-minute workout app** designed for busy students and professionals who want to stay active without spending hours exercising.
+Just **7 minutes a day** of guided, full-body movement to support consistency and overall fitness.
 
-MIT License.
+---
+
+## Research-Backed Workout
+
+This app is inspired by the research of **Chris Jordan** (Exercise Physiologist) and **Brett Klika**, who introduced the concept of **high-intensity circuit training (HICT)**.
+
+Their work focuses on:
+
+* Short-duration workouts
+* Full-body engagement
+* Maximum effectiveness with minimal time investment
+
+---
+
+## Why This App?
+
+* **No Backing Out Once Started**
+  After tapping *Start*, the workout continues without interruption—encouraging commitment.
+
+* **Perfect for Busy Schedules**
+  Ideal for students and professionals with limited free time.
+
+* **Built for Consistency**
+  A simple, time-bound routine helps reduce procrastination and build healthy habits.
+
+---
+
+## Features
+
+* Guided 7-minute workout routine
+* High-intensity, full-body exercises
+* Clean and simple UI
+* Designed to encourage daily commitment
+
+---
+
+## 📸 Screenshots
+
+Splash screen:
+
+<img src="https://github.com/nashrah-18/7-Minute-Workout-App/blob/main/WhatsApp%20Image%202025-12-31%20at%203.26.30%20AM(2).jpeg?raw=true" width="250"/>
+
+---
+
+Timer:
+<img src="https://github.com/nashrah-18/7-Minute-Workout-App/blob/main/WhatsApp%20Image%202025-12-31%20at%203.26.31%20AM.jpeg?raw=true" width="250"/>
+
+
+---
+
+Exercies:
+
+<img src="https://github.com/nashrah-18/7-Minute-Workout-App/blob/main/WhatsApp%20Image%202025-12-31%20at%203.26.31%20AM(1).jpeg?raw=true" width="250"/>
+
+<img src="https://github.com/nashrah-18/7-Minute-Workout-App/blob/main/WhatsApp%20Image%202025-12-31%20at%203.26.31%20AM(2).jpeg?raw=true" width="250"/>
+
+<img src="https://github.com/nashrah-18/7-Minute-Workout-App/blob/main/WhatsApp%20Image%202025-12-31%20at%203.26.32%20AM(1).jpeg?raw=true" width="250"/>
+
+<img src="https://github.com/nashrah-18/7-Minute-Workout-App/blob/main/WhatsApp%20Image%202025-12-31%20at%203.26.32%20AM(2).jpeg?raw=true" width="250"/>
+
+<img src="https://github.com/nashrah-18/7-Minute-Workout-App/blob/main/WhatsApp%20Image%202025-12-31%20at%203.26.32%20AM.jpeg?raw=true" width="250"/>
+
+<img src="https://github.com/nashrah-18/7-Minute-Workout-App/blob/main/WhatsApp%20Image%202025-12-31%20at%203.26.33%20AM(1).jpeg?raw=true" width="250"/>
+
+<img src="https://github.com/nashrah-18/7-Minute-Workout-App/blob/main/WhatsApp%20Image%202025-12-31%20at%203.26.33%20AM(2).jpeg?raw=true" width="250"/>
+
+<img src="https://github.com/nashrah-18/7-Minute-Workout-App/blob/main/WhatsApp%20Image%202025-12-31%20at%203.26.33%20AM.jpeg?raw=true" width="250"/>
+
+<img src="https://github.com/nashrah-18/7-Minute-Workout-App/blob/main/WhatsApp%20Image%202025-12-31%20at%203.26.34%20AM(1).jpeg?raw=true" width="250"/>
+
+<img src="https://github.com/nashrah-18/7-Minute-Workout-App/blob/main/WhatsApp%20Image%202025-12-31%20at%203.26.34%20AM.jpeg?raw=true" width="250"/>
+
+---
+
+## Tech Stack
+
+* Platform: *Android Studio*
+* Language: *Kotlin*
+* Design: *Xml*
+
+---
+
+## Future Improvements
+
+* Workout customization
+* Progress tracking
+* Daily reminders
+* Accessibility enhancements
+
+---
+
+## License
+
+This project is licensed under the **MIT License**.
